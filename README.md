@@ -17,7 +17,7 @@ This code performs all the necessary preprocessing, including unzipping, clippin
 
 - **output**: preprocessed images (.tif)
 
-### 2. LandsatARD_Preprocessing
+### 2. II_Prepare_LandsatNDVI.py
 
 This code deletes the all-black NDVI scenes and generate a mask for each NDVI images (for later data fusion).
 
